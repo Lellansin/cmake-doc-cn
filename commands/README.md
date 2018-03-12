@@ -1,4 +1,4 @@
-# [commands/mark\_as\_advanced.md](/commands/mark_as_advanced.md)cmake-commands\(7\)
+# cmake-commands\(7\)
 
 ## 内容
 
