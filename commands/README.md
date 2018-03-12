@@ -1,4 +1,4 @@
-# cmake-commands\(7\)
+# [commands/mark\_as\_advanced.md](/commands/mark_as_advanced.md)cmake-commands\(7\)
 
 ## 内容
 
@@ -67,7 +67,7 @@
 * load\_cache
 * load\_command
 * macro
-* mark\_as\_advanced
+* [mark\_as\_advanced](/commands/mark_as_advanced.md)
 * math
 * message
 * option
