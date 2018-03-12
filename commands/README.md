@@ -14,7 +14,7 @@
 * add\_compile\_options
 * add\_custom\_command
 * add\_custom\_target
-* add\_definitions
+* [add\_definitions](/commands/add_definitions.md)
 * add\_dependencies
 * add\_executable
 * add\_library
