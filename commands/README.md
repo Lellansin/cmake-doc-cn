@@ -17,7 +17,7 @@
 * [add\_definitions](/commands/add_definitions.md)
 * add\_dependencies
 * add\_executable
-* add\_library
+* [add\_library](/commands/add_library.md)
 * add\_subdirectory
 * add\_test
 * aux\_source\_directory
